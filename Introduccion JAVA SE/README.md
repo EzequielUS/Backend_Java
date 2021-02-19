@@ -52,97 +52,15 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 # Conocer a Java como lenguaje de programación
 ## ¿Que es Java?
 
-Posiblemente la primera computadora fue creada por los **antiguos griegos** el cual tenia el propósito de calcular las posiciones del Sol, Luna y algunos otros cuerpos celestes.
+Java es un lenguaje de programación de alto nivel (aunque no tan alto como Python o JavaScript) que nos ayuda a construir aplicaciones para diferentes dispositivos y sistemas operativos.
 
-<br>
-<div align="center"> 
-  <img src="readme_img/computadora-griega.jpg" width="250">
-  <h5>Mecanismo Anticitera</h5>
-</div>
-<br>
+Fue creado en 1991 por James Gosling mientras trabajaba en Sun Microsystems, una empresa que luego fue adquirida por Oracle. Esto significa que Java tiene muy buen mantenimiento, pero también algunos cambios con los que no todos estaremos de acuerdo.
 
-Miles de años después se creo el **telar de Jacquard**, en donde las se creaban tarjetas con agujeros que representaban la información que tiene que hacer un pedazo de tela.
+Java tiene dos categorías: Standard Edition para construir aplicaciones de escritorio o consola y Enterprise Edition para que las empresas trabajen aplicaciones web de última generación.
 
-<br>
-<div align="center"> 
-  <img src="readme_img/Telar-de-Jacquard.jpg" width="350">
-  <h5>Telar de Jacquard</h5>
-</div>
-<br>
+En este curso aprenderemos los fundamentos de Java Standard Edition: la sintaxis del lenguaje, declarar variables, trabajar con funciones, ciclos y condicionales, lógica de programación, algoritmos y muchas otras cosas.
 
-Después llego el **motor analítico de Charles Babbage**, el cual ocupo la tecnología de punta en su época para poder realizar cálculos.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/motor-babbage.jpg" width="350">
-  <h5>Motor analítico de Charles Babbage</h5>
-</div>
-<br>
-
-A finales del siglo XIX el gobierno de EE.UU. tenia serios problemas para realizar los censos como mandaba la constitución. En este momento fue cuando llego la **máquina tabuladora**, la cual se utilizo para realizar los censos con tarjetas, obteniendo resultados mas rápidos y certeros.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/maquina-tabuladora.jpg" width="350">
-  <h5>Máquina Tabuladora</h5>
-</div>
-<br>
-
-Antiguamente existía la **profesión de computadora**, la cual eran personas que se dedicaban a seguir ciertas instrucciones para obtener los resultados. Sin embargo estos resultados estaban plagados de errores. Al inicio del siglo XX ya existían compañías que tenían la necesidad de realizar cálculos exactos y a gran escala. Es aquí donde llegan **Alan Turing** y **Alonzo Church** con la idea de que todos los algoritmos desarrollados por la humanidad podían ser reducidas a una maquina imaginaria, que tuviera una cinta infinita donde apuntarían símbolos y estos símbolos se pudieran manipular. Es aquí donde se comenzó la carrera para crear la primera computadora electrónica, el cual fue el **ENIAC**.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/church_alonzo.jpg" height="200">
-  <img src="readme_img/alan-turing.jpg" height="200">
-  <img src="readme_img/eniac.jpg" height="200">
-  <h5>Alonzo Chruch, Alan Turing y la maquina ENIAC respectivamente.</h5>
-</div>
-<br>
-
-**John von Neumann** se dio cuenta de que en el hardware no solo se podía almacenar el poder de computo, también los programas para ejecutar. A esta arquitectura se le llama la **arquitectura de von Neumman.** De esta arquitectura nace la máquina **EDVAC** (Electronic Discrete Automatic Computer).
-
-<br>
-<div align="center"> 
-  <img src="readme_img/neumann-edvac.jpeg" width="350">
-  <h5>John von Neumann junto a la maquina EDVAC.</h5>
-</div>
-<br>
-
-<br>
-<div align="center"> 
-  <img src="readme_img/arquitectura-neumann.png" width="350">
-  <h5>La arquitectura von Neumann.</h5>
-</div>
-<br>
-
-Con la llegada de los **microchips** llego la pauta para la computación de hoy en día. Estos microchips se hicieron tan pequeños con el tiempo usando la tecnología de la **fotónica.**
-
-<br>
-<div align="center"> 
-  <img src="readme_img/microchips.jpg" height="200">
-  <img src="readme_img/oblea-silicio.jpg" height="200">
-  <h5>Microchip y Oblea de Silicio respectivamente.</h5>
-</div>
-<br>
-
-Ya en nuestros tiempos llego la **nube**, el cual son data centers que no son mas que miles o millones de computadoras.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/nube.jpg" width="350">
-  <h5>Sala de servidores de una nube</h5>
-</div>
-<br>
-
-**Richar Feyman** nos dio las bases del computo cuántico, el pensaba que no podíamos simular los sistemas cuánticos sino teníamos una computadora cuántica, por lo cual hoy en día estamos en la carrera de la **computación cuántica.**
-
-<br>
-<div align="center"> 
-  <img src="readme_img/feynman.jpeg" height="200">
-  <img src="readme_img/computador-cuantico.png" height="200">
-  <h5>Richard Feyman y una computadora cuántica respectivamente.</h5>
-</div>
-<br>
+Pero no te preocupes. Java sigue filosofía de Write Once, Run Anywhere (WORA), por lo que todo lo que aprendas en este curso lo podrás aplicar también con Java EE.
 
 ## Lenguajes de programación
 
