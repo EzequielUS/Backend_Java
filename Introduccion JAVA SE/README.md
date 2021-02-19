@@ -17,7 +17,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
   - [Las herramientas más usadas de Java](#Las-herramientas-más-usadas-de-Java)
   - [Escribe tu primer Hola Mundo en Java](#Escribe-tu-primer-Hola-Mundo-en-Java)
   - [Etapas de la programación en Java](#Etapas-de-la-programación-en-Java)
-  - [La JShell de Java]#(La-JShell-de-Java)
+  - [La JShell de Java](#La-JShell-de-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
