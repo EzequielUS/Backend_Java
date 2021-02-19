@@ -14,8 +14,8 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 - [Conocer a Java como lenguaje de programación](#Conocer-a-Java-como-lenguaje-de-programación)
   - [¿Que es Java?](#¿-Que-es-Java-?)
   - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
-  - [Las herramientas más usadas de Java](Las-herramientas-más-usadas-de-Java)
-  - [Escribe tu primer Hola Mundo en Java](Escribe-tu-primer-Hola-Mundo-en-Java)
+  - [Las herramientas más usadas de Java](#Las-herramientas-más-usadas-de-Java)
+  - [Escribe tu primer Hola Mundo en Java](#Escribe-tu-primer-Hola-Mundo-en-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -108,21 +108,21 @@ El método main es el punto de entrada de una aplicación en diferentes lenguaje
 
 En Java definimos este método de la siguiente manera:
 
-´´´java
+ ```java
 public static void main (String[] args) {
   // acciones
 }
-´´´
+ ```
 
 Por lo tanto, este será el código de nuestro HolaMundo.java y podremos ejecutarlo con Click derecho > Run 'HolaMundo.main()':
 
-´´´java
+ ```java
 public class HolaMundo {
   public static void main (String[] args) {
     System.out.println("Hola, mundo!");
   }
 }
-´´´
+ ```
 Recuerda que nuestro IDE nos proporciona algunos atajos. Por ejemplo, con solo escribir la palabra sout podremos autocompletar la sentencia System.out.println();.
 
 
