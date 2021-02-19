@@ -11,8 +11,8 @@
 El contenido de este documento esta basado en el curso del mismo nombre dictado por [Anahi](https://github.com/anncode) en [Platzi](https://platzi.com/clases/java-basico/).
 
 # Tabla de contenido
-- [Conocer a Java como lenguaje de programación](#Introducción-al-pensamiento-computacional)
-  - [¿Que es Java?](#¿Que-es-Java?)
+- [Conocer a Java como lenguaje de programación](#Conocer-a-Java-como-lenguaje-de-programación)
+  - [¿Que es Java?](#¿-Que-es-Java-?)
   - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
@@ -66,9 +66,10 @@ Pero no te preocupes. Java sigue filosofía de Write Once, Run Anywhere (WORA), 
 
 El JDK o Java Development Kit se compone de los siguientes elementos:
 
-Java Runtime Environment (JRE): La máquina virtual de Java, lo que nos permite que al escribir el mismo código funcione igual en todos los dispositivos y sistemas operativos.
-Compilador de Java: El encargado de traducir nuestro código en Java a un lenguaje que puede entender e interpretar nuestra máquina virtual.
-APIs de desarrollo: Una base de código lista para ayudarnos a desarrollar.
+- **Java Runtime Environment (JRE):** La máquina virtual de Java, lo que nos permite que al escribir el mismo código funcione igual en todos los dispositivos y sistemas operativos.
+- **Compilador de Java:** El encargado de traducir nuestro código en Java a un lenguaje que puede entender e interpretar nuestra máquina virtual.
+- **APIs de desarrollo:** Una base de código lista para ayudarnos a desarrollar.
+
 Las APIs de desarrollo con Java han evolucionado con el tiempo, por lo que existen diferentes versiones de java que puedes utilizar. La versión que más elevo la popularidad y las ofertas de trabajo con Java fue Java SE 6.
 
 En Java SE 9 anunciaron que las actualizaciones ocurrirían cada 6 meses, pero las versiones LTS (Long Time Support) tendrán mantenimiento por 3 años, así que las actualizaciones son necesarias, pero no urgentes.
