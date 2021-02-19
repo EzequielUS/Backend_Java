@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Introducción al Pensamiento Computacional con Python</h1>
+  <h1>Introduccion a JAVA SE</h1>
 </div>
 
 <div align="center"> 
-  <img src="readme_img/python.png" width="250">
+  <img src="readme_img/java.jpg" width="250">
 </div>
 
 # Introducción al documento
 
-El contenido de este documento esta basado en el curso del mismo nombre dictado por [David Aroesti](https://github.com/jdaroesti) en [Platzi](https://platzi.com/r/karlbehrens/).
+El contenido de este documento esta basado en el curso del mismo nombre dictado por [Anahi](https://github.com/anncode) en [Platzi](https://platzi.com/clases/java-basico/).
 
 # Tabla de contenido
-- [Introducción al pensamiento computacional](#Introducción-al-pensamiento-computacional)
-  - [Introducción al cómputo](#Introducción-al-cómputo)
+- [Conocer a Java como lenguaje de programación](#Introducción-al-pensamiento-computacional)
+  - [¿Que es Java?](#Introducción-al-cómputo)
   - [Lenguajes de programación](#Lenguajes-de-programación)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
@@ -49,8 +49,8 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
   - [Excepciones como control de flujo](#Excepciones-como-control-de-flujo)
   - [Afirmaciones](#Afirmaciones)
 
-# Introducción al pensamiento computacional
-## Introducción al cómputo
+# Conocer a Java como lenguaje de programación
+## ¿Que es Java?
 
 Posiblemente la primera computadora fue creada por los **antiguos griegos** el cual tenia el propósito de calcular las posiciones del Sol, Luna y algunos otros cuerpos celestes.
 
