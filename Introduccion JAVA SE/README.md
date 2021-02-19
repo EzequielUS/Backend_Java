@@ -14,6 +14,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 - [Conocer a Java como lenguaje de programación](#Conocer-a-Java-como-lenguaje-de-programación)
   - [¿Que es Java?](#¿-Que-es-Java-?)
   - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
+  - [Las herramientas más usadas de Java](Las-herramientas-más-usadas-de-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -86,14 +87,23 @@ Afortunadamente, OpenJDK es una versión gratis y open source de usar Java SE Pl
 <br>
 
 
+## Las herramientas más usadas de Java
 
-# Introducción a Python
+Java 8 (LTS) es la versión más usada de Java hasta inicios del 2019, pero solo tendrá soporte hasta diciembre del 2020, luego de esta fecha tendremos que pagar una licencia para continuar con su soporte.
 
-## Preparación de tu computadora
+Java 10 introdujo algunos cambios en la forma de declarar variables, así que en este curso vamos a trabajar con las versiones 8 y 11 de Java.
 
-Antes de comenzar este curso asegúrate de preparar tu entorno de trabajo para poder hacer todos los ejercicios. A continuación te compartiré los pasos que debes seguir para configurar tu computadora.
+La herramienta más usada para construir proyectos web con Java es **Maven**, pero también existen otras alternativas como **Gradle**. También existen frameworks como Spring para trabajar con Java EE y ORMs como Hibernate para trabajar con bases de datos.
 
-Si estás usando Windows asegúrate de instalar lo siguiente en tu computadora:
+Los IDEs son entornos de desarrollo integrados, herramientas (aplicaciones, seguramente de escritorio) que nos ayudan a escribir nuestro código con editores, compiladores, depuradores y constructores de interfaces gráficas, todo en un mismo lugar.
+
+El IDE recomendado por Oracle es NetBeans, pero también están Eclipse e IntelliJ IDEA, este último es el que más fuerza ha tomado gracias a Kotlin. Las tres herramientas son gratuitas, pero IntelliJ IDEA también tiene una versión de pago.
+
+
+
+
+
+
 
 ### Python 3.7 (o superior)
 1. Para obtener el instalador dirígete a [https://www.python.org/downloads/](https://www.python.org/downloads/)
