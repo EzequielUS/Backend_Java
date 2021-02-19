@@ -16,6 +16,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
   - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
   - [Las herramientas más usadas de Java](#Las-herramientas-más-usadas-de-Java)
   - [Escribe tu primer Hola Mundo en Java](#Escribe-tu-primer-Hola-Mundo-en-Java)
+  - [Etapas de la programación en Java](#Etapas-de-la-programación-en-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -83,7 +84,7 @@ Afortunadamente, OpenJDK es una versión gratis y open source de usar Java SE Pl
 <br>
 <div align="center"> 
   <img src="readme_img/tipos.jpg" width="350">
-  <h5>Tipos de JAVA</h5>
+  <h5>Tipos de Java</h5>
 </div>
 <br>
 
@@ -129,9 +130,25 @@ El método main() es el punto en el que comienza la ejecución de la aplicación
 
 El metodo main() solo hacepta un solo párametro; una matriz de tipo String que recoge los valores introducidos en la la línea de comandos
 
-###Atajos:
+### Atajos:
 - main
 - sout
+
+## Etapas de la programación en Java
+
+1. Escribir nuestros archivos .java.
+2. Compilar, cargar y verificar nuestros archivos con javac (los IDEs nos permiten compilar con solo presionar un botón).
+3. Al compilar obtenemos archivos .class con código que nuestras computadoras pueden entender (Byte Code).
+4. La JVM (Java Virtual Machine) se encarga de ejecutar el código de forma que funcione en cualquier dispositivo o sistema operativo.
+
+Java es un lenguaje compilado e interpretado al mismo tiempo.
+
+<br>
+<div align="center"> 
+  <img src="readme_img/estructura.png" width="350">
+  <h5>Etapas de la programación en Java</h5>
+</div>
+<br>
 
 
 ### Python 3.7 (o superior)
