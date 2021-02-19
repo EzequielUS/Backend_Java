@@ -17,6 +17,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
   - [Las herramientas más usadas de Java](#Las-herramientas-más-usadas-de-Java)
   - [Escribe tu primer Hola Mundo en Java](#Escribe-tu-primer-Hola-Mundo-en-Java)
   - [Etapas de la programación en Java](#Etapas-de-la-programación-en-Java)
+  - [La JShell de Java]#(La-JShell-de-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -151,12 +152,21 @@ Java es un lenguaje compilado e interpretado al mismo tiempo.
 <br>
 
 
-### Python 3.7 (o superior)
-1. Para obtener el instalador dirígete a [https://www.python.org/downloads/](https://www.python.org/downloads/)
-2. Descarga el instalador y ejecútalo en tu computadora.
-3. Habilita la casilla de verificación en Install launcher for all users y Add Python 3.8 to PATH. A continuación presiona en Install Now. Windows te solicitará permisos para instalar Python en tu computadora.
-4. Al finalizar la instalación se abrirá una ventana, en ella deberás presionar en la opción Disable path length limit. Windows te solicitará permisos para realizar este cambio.
+### La JShell de Java
 
+Sabías que Java tiene una herramienta interactiva en dónde puedes ir probando segmentos de código en vez de realizar todo el proceso de creación de un programa en Java. 
+
+Escribir, compilar y correr.
+
+Su nombre es jshell y está disponible desde la versión 9 de Java.
+
+Abre tu consola de comandos o terminal, corre el siguiente comando:
+
+ ```shell
+java -version
+jshell
+ ```
+ 
 ### Visual Studio Code
 
 Visual Studio Code es un editor de textos que tiene integradas varias herramientas que te ayudarán a desarrollar tus ejercicios con facilidad. Para obtenerlo en tu computadora, dirígete a: [https://code.visualstudio.com/](https://code.visualstudio.com/)
