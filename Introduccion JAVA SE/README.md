@@ -125,6 +125,13 @@ public class HolaMundo {
  ```
 Recuerda que nuestro IDE nos proporciona algunos atajos. Por ejemplo, con solo escribir la palabra sout podremos autocompletar la sentencia System.out.println();.
 
+El método main() es el punto en el que comienza la ejecución de la aplicación. Por eso tiene que ser public(metodo accesible desde afuera de la clase) y static (método que se puede ejecutar sin una instancia de la clase), todo lo anterior porque es la primer línea de código que se ejecuta, y por lo tanto no necesita otro tipo de devolución a void, porque no hay código que lo anteceda.
+
+El metodo main() solo hacepta un solo párametro; una matriz de tipo String que recoge los valores introducidos en la la línea de comandos
+
+###Atajos:
+- main
+- sout
 
 
 ### Python 3.7 (o superior)
