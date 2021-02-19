@@ -15,6 +15,7 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
   - [¿Que es Java?](#¿-Que-es-Java-?)
   - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
   - [Las herramientas más usadas de Java](Las-herramientas-más-usadas-de-Java)
+  - [Escribe tu primer Hola Mundo en Java](Escribe-tu-primer-Hola-Mundo-en-Java)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -100,8 +101,29 @@ Los IDEs son entornos de desarrollo integrados, herramientas (aplicaciones, segu
 El IDE recomendado por Oracle es NetBeans, pero también están Eclipse e IntelliJ IDEA, este último es el que más fuerza ha tomado gracias a Kotlin. Las tres herramientas son gratuitas, pero IntelliJ IDEA también tiene una versión de pago.
 
 
+## Escribe tu primer Hola Mundo en Java
+Los archivos de Java usan la extensión .java. Por lo tanto, para crear nuestro primer “Hola, mundo” podemos hacerlo desde un archivo HolaMundo.java.
 
+El método main es el punto de entrada de una aplicación en diferentes lenguajes como Java, Kotlin y C++. Sin este método nuestra aplicación no se ejecutará y mostrará un error.
 
+En Java definimos este método de la siguiente manera:
+
+´´´java
+public static void main (String[] args) {
+  // acciones
+}
+´´´
+
+Por lo tanto, este será el código de nuestro HolaMundo.java y podremos ejecutarlo con Click derecho > Run 'HolaMundo.main()':
+
+´´´java
+public class HolaMundo {
+  public static void main (String[] args) {
+    System.out.println("Hola, mundo!");
+  }
+}
+´´´
+Recuerda que nuestro IDE nos proporciona algunos atajos. Por ejemplo, con solo escribir la palabra sout podremos autocompletar la sentencia System.out.println();.
 
 
 
