@@ -12,8 +12,8 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 
 # Tabla de contenido
 - [Conocer a Java como lenguaje de programación](#Introducción-al-pensamiento-computacional)
-  - [¿Que es Java?](#Introducción-al-cómputo)
-  - [Lenguajes de programación](#Lenguajes-de-programación)
+  - [¿Que es Java?](#¿Que es Java?)
+  - [Versiones de Java y JDK](#Versiones de Java y JDK)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -62,55 +62,29 @@ En este curso aprenderemos los fundamentos de Java Standard Edition: la sintaxis
 
 Pero no te preocupes. Java sigue filosofía de Write Once, Run Anywhere (WORA), por lo que todo lo que aprendas en este curso lo podrás aplicar también con Java EE.
 
-## Lenguajes de programación
+## Versiones de Java y JDK
 
-¿Cómo le damos instrucciones a las computadoras? Primero debemos saber que existen **conocimiento declarativo e imperativo.** El conocimiento **declarativo** define las relaciones que existen entre diversas variables, por ejemplo una fórmula matemática. En el caso del **imperativo** nos dice como llegar a un resultado, y dentro de este existen los **algoritmos.**
+El JDK o Java Development Kit se compone de los siguientes elementos:
 
-Un **algoritmo** es una _lista finita de instrucciones_ que describen un cómputo, que cuando se ejecuta con ciertas entradas _(inputs)_ ejecuta pasos intermedios para llegar a un resultado _(output)_. Los algoritmos se conocen desde los antiguos griegos, y fue la evolución de estos que nos dieron los primeros **lenguajes de programación.**
+Java Runtime Environment (JRE): La máquina virtual de Java, lo que nos permite que al escribir el mismo código funcione igual en todos los dispositivos y sistemas operativos.
+Compilador de Java: El encargado de traducir nuestro código en Java a un lenguaje que puede entender e interpretar nuestra máquina virtual.
+APIs de desarrollo: Una base de código lista para ayudarnos a desarrollar.
+Las APIs de desarrollo con Java han evolucionado con el tiempo, por lo que existen diferentes versiones de java que puedes utilizar. La versión que más elevo la popularidad y las ofertas de trabajo con Java fue Java SE 6.
 
-**Ada Lovelace** se dio cuenta de que con las bases teóricas del _motor analítico_ podía calcular una serie de los _números de Bernoulli_, y así creo el primer programa de computación.
+En Java SE 9 anunciaron que las actualizaciones ocurrirían cada 6 meses, pero las versiones LTS (Long Time Support) tendrán mantenimiento por 3 años, así que las actualizaciones son necesarias, pero no urgentes.
 
-<br>
-<div align="center"> 
-  <img src="readme_img/lovelace.jpg" width="350">
-  <h5>Ada Lovelace</h5>
-</div>
-<br>
+En este curso vamos a trabajar con la versión Java SE 11 LTS, la primera versión de Java con licencia. Solo podremos usarlo gratis cuando trabajemos en ambientes de desarrollo y testing. De otra forma, debemos pagar 2.5 USD al mes por usuario de escritorio y 25 USD por procesador para aplicaciones de servidor.
 
-**Grace Murray Hopper** fue pionera en el mundo de las ciencias de la computación y la primera programadora que utilizó el _Mark I_. Entre las décadas de los 50 y 60 desarrolló el primer compilador para un lenguaje de programación así como también propició métodos de validación. Grace se le ocurrió la idea de tomar unas instrucciones de 1 y 0 para simplificarlos en una instrucción mas entendible para las personas, idea que fue el punta pie inicial para los **lenguajes de programación modernos.**
+Afortunadamente, OpenJDK es una versión gratis y open source de usar Java SE Platform Edition.
 
 <br>
 <div align="center"> 
-  <img src="readme_img/Grace-Murray-Hopper.jpg" width="350">
-  <h5>Grace Murray Hopper</h5>
-</div>
-<br>
-
-En el sentido de la idea de los lenguajes de programación llega **Dennis Ritchie**, el cual fue el inventor del lenguaje _C_, posiblemente uno de los lenguajes mas importantes de la historia.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/dennis-ritchie.jpg" width="350">
-  <h5>Dennis Ritchie</h5>
+  <img src="readme_img/tipos.jpg" width="350">
+  <h5>Tipos de JAVAr</h5>
 </div>
 <br>
 
 
-**Guido van Rossum**, tenia en mente crear un lenguaje de programación que fuera lo mas comprensible posible, eliminando símbolos y sintaxis extrañas, cercano al lenguaje natural. Fue por esta idea en donde nació _Python_.
-
-<br>
-<div align="center"> 
-  <img src="readme_img/van-rossum.jpg" width="350">
-  <h5>Guido van Rossum</h5>
-</div>
-<br>
-
-Los **lenguajes de programación** modernos se les conoce como **Turing completeness**, ya que implementan todos los principios para implementar cualquier tipo de _algoritmo._
-
-Todos los **lenguajes** tienen:
-- **Sintaxis:** Define la secuencia de símbolos que está bien formada.
-- **Semántica estática:** Define que enunciados con sintaxis correcta tienen significado.
-- **Semántica:** Define el significado. En los lenguajes de programación solo hay un significado.
 
 # Introducción a Python
 
