@@ -12,8 +12,8 @@ El contenido de este documento esta basado en el curso del mismo nombre dictado 
 
 # Tabla de contenido
 - [Conocer a Java como lenguaje de programación](#Introducción-al-pensamiento-computacional)
-  - [¿Que es Java?](#¿Que es Java?)
-  - [Versiones de Java y JDK](#Versiones de Java y JDK)
+  - [¿Que es Java?](#¿Que-es-Java?)
+  - [Versiones de Java y JDK](#Versiones-de-Java-y-JDK)
 - [Introducción a Python](#Introducción-a-Python)
   - [Preparación de tu computadora](#Preparación-de-tu-computadora)
   - [Elementos básicos de Python](#Elementos-básicos-de-Python)
@@ -80,7 +80,7 @@ Afortunadamente, OpenJDK es una versión gratis y open source de usar Java SE Pl
 <br>
 <div align="center"> 
   <img src="readme_img/tipos.jpg" width="350">
-  <h5>Tipos de JAVAr</h5>
+  <h5>Tipos de JAVA</h5>
 </div>
 <br>
 
